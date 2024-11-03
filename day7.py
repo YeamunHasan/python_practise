@@ -29,3 +29,5 @@ print(df)
 
 row=df.iloc[[1,2,3], [1,2]]
 print(row)
+
+print(cars['cars_per_cap']<1000)
